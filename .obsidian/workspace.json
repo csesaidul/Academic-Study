@@ -11,10 +11,14 @@
             "id": "c94e4386d2bc611c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -192,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1454eeab1b4e1d45",
+  "active": "c94e4386d2bc611c",
   "lastOpenFiles": [
     "README.md",
     "LICENSE",

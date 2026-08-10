@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://neu.ac.bd/">
-		<img src="./assets/Logo-NeU-jpg.jpg" alt="Netrokona University Logo" width="220" height="220" />
+		<img src="./_assets/Logo-NeU-jpg.jpg" alt="Netrokona University Logo" width="220" height="220" />
 	</a>
 </p>
 
