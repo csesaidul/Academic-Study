@@ -6,11 +6,11 @@
 
 # Obsidian Study Notes
 
-Academic lecture notes, study materials, books, slides, and lab resources for the **Computer Science and Engineering (CSE)** program at **[Netrokona University](https://neu.ac.bd/)**.
+Academic lecture notes, study materials, books, slides, and lab resources for the [**Computer Science and Engineering (CSE)**](https://cse.neu.ac.bd/) program at **[Netrokona University](https://neu.ac.bd/)**.
 
 ## Program Information
 
-- Department: Computer Science and Engineering (CSE)
+- Department: [Computer Science and Engineering (CSE)](https://cse.neu.ac.bd/)
 - Batch: CSE - 04
 - Session: 2022-2023
 
@@ -44,7 +44,7 @@ README.md
 
 ## Maintainer
 
-**Md Saidul Islam**  
+[**Md Saidul Islam** ](https://github.com/csesaidul) 
 Registration No: 202204015  
 Session: 2022-2023
 

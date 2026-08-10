@@ -11,10 +11,10 @@
             "id": "c94e4386d2bc611c",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -162,13 +162,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "0d10856c2a687a69",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,11 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1454eeab1b4e1d45",
+  "active": "c94e4386d2bc611c",
   "lastOpenFiles": [
+    "README.md",
     "LICENSE",
     "assets/Logo-NeU-jpg.jpg",
-    "assets",
-    "README.md"
+    "assets"
   ]
 }
