@@ -178,9 +178,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c94e4386d2bc611c",
-  "lastOpenFiles": []
+  "active": "1454eeab1b4e1d45",
+  "lastOpenFiles": [
+    "LICENSE",
+    "assets/Logo-NeU-jpg.jpg",
+    "assets",
+    "README.md"
+  ]
 }
