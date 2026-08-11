@@ -1,0 +1,9 @@
+{
+  "id": "answer-toggle",
+  "name": "Answer Toggle",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Hides content after a 'Solution:' link/heading in Reading view behind a Show/Close answer button. Works alongside PDF++ without affecting its features.",
+  "author": "You",
+  "isDesktopOnly": false
+}
